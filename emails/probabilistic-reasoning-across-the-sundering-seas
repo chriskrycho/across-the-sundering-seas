@@ -1,0 +1,37 @@
+Good morning, readers!
+
+It’s a nice day here in Colorado, and I’ve done some reading and study again this week, so I’m happy to be diving back in with some reflections on some internet reading I did this week!
+
+---- 
+
+First things first, though! Who are you? Who am I? What are we even doing here? Well, I can’t answer the first question (though I’d love to hear from you if *you’d* like to answer it; just reply!). I can, however, answer the other two questions: I’m [Chris Krycho][1], and [this][atss] is my roughly-weekly newsletter where I learn in public, reflecting on things I’ve been reading and thinking about and sharing that with you. You can and should feel free to [unsubscribe][2] at any time—we all have a lot on our minds, and now more than ever!
+
+---- 
+
+[Slate Star Codex][3] is one of my favorite blogs. It’s been around for ages, and Scott Alexander models the kind of thinking-well-in-public that I aspire to. This week he [tackled the question of *prediction*][4] and in particular its relationship to the way that a lot of major media got things *very wrong* when it came to Covid-19. As he notes in the post, this wasn’t just a failure of big media, or even of big government. Business got it wrong, too. Even epidemiologists weren’t confident in late January or early February that the global pandemic we are now facing would become what it is. The critical bit Alexander highlights, though, is that even a *relatively* low probability of an *extremely* dangerous event means we should take that event seriously.
+
+Say there’s good reason to think there’s only a 10% chance of a local epidemic turning into a global pandemic with serious consequences—tens or hundreds of thousands of deaths and massive impact to the economy in the *best case* scenarios if it happense. There are two ways you can think about that. One is: “ah, probably not going to happen.” The other is “that’s not *that* low a chance, and the fallout is *bad* if it does; maybe we should do some basic preparation that will make us *far* better able to handle it if it does, and won’t cost us much if it doesn’t.” Or, as he puts it in the article:
+
+> What was the percent attached to your “coronavirus probably won’t be a disaster” prediction? Was it also 29% [like Nate Silver’s prediction of the Trump’s being elected]? 20%? 10%? Are you sure you want to go lower than 10%? Wuhan was already under total lockdown, they didn’t even have space to bury all the bodies, and you’re saying that there was less than 10% odds that it would be a problem anywhere else? I hear people say there’s a 12 – 15% chance that future civilizations will resurrect your frozen brain, surely the risk of coronavirus was higher than that?
+> 
+> And if the risk was 10%, shouldn’t that have been the headline. “TEN PERCENT CHANCE THAT THERE IS ABOUT TO BE A PANDEMIC THAT DEVASTATES THE GLOBAL ECONOMY, KILLS HUNDREDS OF THOUSANDS OF PEOPLE, AND PREVENTS YOU FROM LEAVING YOUR HOUSE FOR MONTHS”? Isn’t that a better headline than Coronavirus panic sells as alarmist information spreads on social media? But that’s the headline you could have written if your odds were ten percent!
+
+The problem, in this construal of things, is that in general we’re just bad at reasoning about uncertainty—not just admitting it (though that would go a bit further than a lot of what we see in general media), but *reasoning* about it. The difference:
+
+- “Science proves trans fats are good for you after all!” with no acknowledgement of uncertainty, even the fact that the scientific paper being reported on likely cited its own degree of confidence (via statistical intervals, etc.).
+- “New papers shows trans fats might be good for you after all,” with a comment explaining the limits of the study.
+- “New paper challenges the status quo on trans fats,” with an explanation that there’s some chance (just ask the folks who wrote the paper and a few others who agree and who disagree with it for what they think it should be) that the paper is right and some meaningful statement of confidence on how widely applicable its findings are.
+
+The second much better… but still leaves something lacking. It tells you “This isn’t nailed down” but gives you no ability to do anything with that information except file it under “Eh, nobody knows anything about nutrition” and move on. The third lets you *think* about the subject. If even scientists who’ve been on the anti-trans-fat train think the paper is very probably correct, that’s just as important a signal as the error bars on the paper; you can file it under “We might have just learned something important.” If everyone thinks the effect shown in the study was real, but not widely applicable, you can file it under “Humans are incredibly variable, but we should probably lower our confidence in the idea that trans fats are *always* and start digging into *when and why* they’re bad.”
+
+Moreover, you can then filter that kind of information into your own decision-making around things, because you know your *own* context better than any random science news article does. Maybe you have good reason to believe that you’re in the bucket that the article reports trans fats are actually *helpful* for, and if there’s high confidence in both that result and your own fitting that bucket, you might change what you eat as a result. If you’re low on confidence on either of those, and there’s some associated *risk* with it, you might go the other direction and keep avoiding trans fats. The point is that “ehhh, nobody knows everything perfectly” is a cop-out; if we say not only what we think to be true but *why* we think it’s true and *how certain* we are about that, we give our audience useful information. Sometimes that useful information might be “This person is an idiot”: if you’re *very certain* that you’ve discovered the secret of cold fusion, and your *why* involves basic math failures, people will rightly label you a crackpot. (Really, at this point, people will rightly label you a crackpot on the subject of cold fusion regardless, but that’s neither here nor there.)
+
+We can apply this same kind of reasoning to a lot of subjects. One of the obvious ones (besides the pandemic!) is climate change. I’ve been fonding of noting over the past few years that making moves that will help with the climate change problem is a good idea. After all, even if the climate change problem doesn’t materialize the way folks who have very *high* confidence levels with very *good* reasons for it think it will… clean energy and lower pollution seems good regardless? (The challenge, of course, with climate change as with the pandemic, is that there are associated *costs*. Most folks aren’t really *reasoning* about those, either, so much as they are emoting. This is human nature!)
+
+Probabilistic reasoning isn’t going to save us all or anything so grand as that. It is, however, really helpful and useful—and being able to apply it in all sorts of situations lets us respond proportionally not only to the risk or benefit level as a whole. That goes for global pandemics and climate change; it also goes for trans fat studies and evaluating a job offer. It’s a tool that’s worth adding to your belt.
+
+[1]: https://v5.chriskrycho.com
+[atss]: https://buttondown.email/chriskrycho
+[2]: {{unsubscribe_url}}
+[3]: https://slatestarcodex.com/
+[4]: https://slatestarcodex.com/2020/04/14/a-failure-but-not-of-prediction/ "A Failure, But Not Of Prediction"
